@@ -28,16 +28,17 @@ public class FileForbiddenWords {
                 System.err.println("Output file exists, overwriting.");
             }
         } catch (IOException e) {
-            e.getMessage();
+            System.err.println(e.getMessage());
             return;
         }
-        PrintStream outputStream = null;
+        PrintStream outputStream;
+
         try {
             outputStream = new PrintStream(output);
         } catch (FileNotFoundException e) {
-            e.getMessage();
+            System.err.println(e.getMessage());
+            return;
         }
-
 
         System.setIn(inputStream);
         System.setOut(outputStream);
