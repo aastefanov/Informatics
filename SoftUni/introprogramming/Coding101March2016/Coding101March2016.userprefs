@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="VegetableMarket/VegetableMarket.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VegetableMarket/Program.cs">
+    <Files>
+      <File FileName="TrainingLab/App.config" Line="1" Column="1" />
+      <File FileName="TrainingLab/Program.cs" Line="1" Column="1" />
+      <File FileName="VegetableMarket/Program.cs" Line="10" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/albert/SoftUni/introprogramming/Coding101March2016/VegetableMarket/Program.cs" line="8" column="4" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.VegetableMarket PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TrainingLab PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="ThousandDaysAfterBirth/ThousandDaysAfterBirth.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SquareArea/SquareArea.cs">
+    <Files>
+      <File FileName="SquareArea/SquareArea.cs" Line="1" Column="1" />
+      <File FileName="InchToCM/InchToCM.cs" Line="1" Column="1" />
+      <File FileName="GreetingByName/GreetingByName.cs" Line="1" Column="1" />
+      <File FileName="Concatenate/Concatenate.cs" Line="1" Column="1" />
+      <File FileName="CurrencyConverter/CurrencyConverter.cs" Line="1" Column="1" />
+      <File FileName="ThousandDaysAfterBirth/ThousandDaysAfterBirth.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

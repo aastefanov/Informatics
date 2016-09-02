@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="StupidPasswordGenerator/StupidPasswordGenerator.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StupidPasswordGenerator/StupidPasswordGenerator.cs">
+    <Files>
+      <File FileName="RectangleOfNXNStars/RectangleOfNXNStars.cs" Line="1" Column="1" />
+      <File FileName="SquareOfStars/SquareOfStars.cs" Line="1" Column="1" />
+      <File FileName="TriangleOfDollars/TriangleOfDollars.cs" Line="1" Column="1" />
+      <File FileName="SquareFrame/SquareFrame.cs" Line="1" Column="1" />
+      <File FileName="RhombusOfStars/RhombusOfStars.cs" Line="17" Column="90" />
+      <File FileName="ChristmasTree/ChristmasTree.cs" Line="1" Column="1" />
+      <File FileName="Sunglasses/Sunglasses.cs" Line="1" Column="1" />
+      <File FileName="House/House.cs" Line="1" Column="1" />
+      <File FileName="Diamond/Diamond.cs" Line="1" Column="1" />
+      <File FileName="RectangleOf10X10Stars/RectangleOf10X10Stars.cs" Line="1" Column="1" />
+      <File FileName="StupidPasswordGenerator/StupidPasswordGenerator.cs" Line="40" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/albert/softuni/introprogramming/DrawingFiguresWithLoops/StupidPasswordGenerator/StupidPasswordGenerator.cs" line="30" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

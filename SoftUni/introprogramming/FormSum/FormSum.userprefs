@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="FormSum/FormSum.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormSum/EmptyCSharpFile.cs">
+    <Files>
+      <File FileName="FormSum/EmptyCSharpFile.cs" Line="3" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
