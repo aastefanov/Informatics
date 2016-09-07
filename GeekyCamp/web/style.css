@@ -1,0 +1,34 @@
+#calculator {
+    zoom: 300%;
+}
+
+#calculator table, #calculator tr, #calculator td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#calculator input[type=button], #calculator input[type=reset] {
+    width: 100%;
+    border: none;
+    color: #444444;
+    background-color: #F9F9F8;
+}
+
+#index {
+    background-color: black;
+    zoom: 300%;
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+#index a {
+    color: lime;
+    transition: color 1.5s;
+}
+
+#index a:hover {
+    color: yellow;
+}
+
+#descriptionlist {
+    zoom: 200%;
+}

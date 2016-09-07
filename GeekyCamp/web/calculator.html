@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>
+        Calculator
+    </title>
+</head>
+<body>
+<form name="calculatorForm" method="post"
+      onsubmit="event.preventDefault(); calculatorForm.equation.value = eval(calculatorForm.equation.value);"
+      id="calculator">
+    <table>
+        <tr>
+            <td colspan="4">
+                <input type="text" name="equation" title=""/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="button" name="openbr" value="(" onclick="calculatorForm.equation.value+='('"/>
+            </td>
+            <td>
+                <input type="button" name="closebr" value=")" onclick="calculatorForm.equation.value+=')'"/>
+            </td>
+            <td colspan="2">
+                <input type="reset" value="Clear"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="button" name="one" value="1" onclick="calculatorForm.equation.value+='1'"/>
+            </td>
+            <td>
+                <input type="button" name="two" value="2" onclick="calculatorForm.equation.value+='2'"/>
+            </td>
+            <td>
+                <input type="button" name="three" value="3" onclick="calculatorForm.equation.value+='3'"/>
+            </td>
+            <td>
+                <input type="button" name="del" value="/" onclick="calculatorForm.equation.value+='/'"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="button" name="four" value="4" onclick="calculatorForm.equation.value+='4'"/>
+            </td>
+            <td>
+                <input type="button" name="five" value="5" onclick="calculatorForm.equation.value+='5'"/>
+            </td>
+            <td>
+                <input type="button" name="six" value="6" onclick="calculatorForm.equation.value+='6'"/>
+            </td>
+            <td>
+                <input type="button" name="times" value="*" onclick="calculatorForm.equation.value+='*'"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="button" name="seven" value="7" onclick="calculatorForm.equation.value+='7'"/>
+            </td>
+            <td>
+                <input type="button" name="eight" value="8" onclick="calculatorForm.equation.value+='8'"/>
+            </td>
+            <td>
+                <input type="button" name="nine" value="9" onclick="calculatorForm.equation.value+='9'"/>
+            </td>
+            <td>
+                <input type="button" name="minus" value="-" onclick="calculatorForm.equation.value+='-'"/>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <input type="button" name="zero" value="0" onclick="calculatorForm.equation.value+='0'"/>
+            </td>
+            <td>
+                <input type="button" name="plus" value="+" onclick="calculatorForm.equation.value+='+'"/>
+            </td>
+            <td>
+                <input type="button" name="point" value="." onclick="calculatorForm.equation.value+='.'"/>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4">
+                <input type="button" name="equals" value="="/>
+            </td>
+    </table>
+</form>
+</body>
+</html>
